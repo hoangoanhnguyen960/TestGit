@@ -8,5 +8,6 @@ namespace TestGitV2
 {
     internal class Teacher
     {
+        private int a = 10;
     }
 }
